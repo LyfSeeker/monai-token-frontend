@@ -14,8 +14,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MonaiToken Dashboard",
-  description: "Interact with MonaiToken on Monad Testnet",
+  title: "$MONAI Token Dashboard",
+  description: "Interact with MonaiToken on Monad Testnet - Transfer, Mint, and Manage Tokens",
+  icons: {
+    icon: [
+      {
+        url: '/favicon.svg',
+        type: 'image/svg+xml',
+      },
+    ],
+    apple: '/apple-touch-icon.png',
+  },
 };
 
 export default function RootLayout({
