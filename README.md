@@ -37,5 +37,5 @@ It includes two roles:
 5. Submit — wait for the verified badge ✅
 
 ### Submission
-- **GitHub Repo:** [your_repo_link_here]
-- **Verified Contract:** [your_monadscan_link_here]
+- **GitHub Repo:** [[your_repo_link_here]](https://github.com/LyfSeeker/monai-token-frontend)
+- **Verified Contract:** 
